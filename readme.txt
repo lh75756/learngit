@@ -12,3 +12,4 @@ using dev branch developing
 =======
 solve bug
 >>>>>>> d594459... solve bug
+solve bug 102
