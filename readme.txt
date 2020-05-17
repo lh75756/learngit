@@ -12,8 +12,13 @@ using dev branch developing
 =======
 solve bug
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> d594459... solve bug
 solve bug 102
 =======
 102
 >>>>>>> d22bc7a... fix bug 102
+=======
+102
+103
+>>>>>>> a5c0c11... 103
