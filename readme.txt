@@ -11,5 +11,9 @@ Git dev
 using dev branch developing
 =======
 solve bug
+<<<<<<< HEAD
 >>>>>>> d594459... solve bug
 solve bug 102
+=======
+102
+>>>>>>> d22bc7a... fix bug 102
