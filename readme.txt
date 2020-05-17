@@ -7,4 +7,8 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Git dev
+<<<<<<< HEAD
 using dev branch developing
+=======
+solve bug
+>>>>>>> d594459... solve bug
